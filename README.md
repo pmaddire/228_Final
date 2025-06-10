@@ -1,6 +1,6 @@
 # 228_Final
 
-Animal Motion Imitation, code base adjusted from https://github.com/erwincoumans/motion_imitation
+Animal Motion Imitation, code base adjusted from https://github.com/erwincoumans/motion_imitation. Note that this was tested on windows 10 and has had some dependency issues on OS systems. 
 
 ## Setup
 
