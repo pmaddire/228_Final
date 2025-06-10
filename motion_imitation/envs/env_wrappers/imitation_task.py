@@ -66,7 +66,7 @@ class ImitationTask(object):
                perturb_init_state_prob=0.0,
                tar_obs_noise=None,
                draw_ref_model_alpha=0.5,
-               physics_weight_scale = 0): #0.01 
+               physics_weight_scale = 0.01): #0.01 
     """Initializes the task.
 
     Args:
