@@ -13,7 +13,7 @@ Animal Motion Imitation, code base adjusted from https://github.com/erwincoumans
    ```bash
    pip3 install -r requirements.txt
    ```
-
+(Requires python 3.7)
 ## Model Training
 
 The reward function is located in `envs/env_wrappers/imitation_task.py` for testing different weight schemes.
